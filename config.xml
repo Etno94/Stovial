@@ -11,7 +11,7 @@
     </author>
     
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="cli-6.4.0" /> <!-- Version en la que se va a compilar, se puede elegir en base a lo que uno usa -->
+    <preference name="phonegap-version" value="cli-6.5.0" /> <!-- Version en la que se va a compilar, se puede elegir en base a lo que uno usa -->
     <preference name="orientation" value="default" />  <!-- default es portait -->
     <preference name="target-device" value="universal" /> <!-- si es para ciertos dispositivos -->
     <preference name="fullscreen" value="false" /> <!-- si es full o no, si se ve el reloj y demas -->
